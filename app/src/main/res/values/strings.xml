@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PlayWithRxAndroid</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="news_title_preview">this is the news title</string>
+    <string name="news">News</string>
+    <string name="search_by_title">Search by title</string>
+    <string name="search_error">there is no such title</string>
+    <string name="news_error">there is no news</string>
+    <string name="no_data">No Data</string>
+</resources>
